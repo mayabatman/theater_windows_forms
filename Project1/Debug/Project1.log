@@ -1,0 +1,48 @@
+﻿  AboutPlay.cpp
+C:\Users\maya1\Documents\0чень важные доки\unik\Project1\Project1\AboutPlay.cpp(37,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Actor.cpp
+  ActorsForm.cpp
+  AddingFIle.cpp
+C:\Users\maya1\Documents\0чень важные доки\unik\Project1\Project1\AddingFIle.cpp(271,19): warning C4305: =: усечение из "int" в "char"
+C:\Users\maya1\Documents\0чень важные доки\unik\Project1\Project1\AddingFIle.cpp(271,15): warning C4309: =: усечение константного значения
+C:\Users\maya1\Documents\0чень важные доки\unik\Project1\Project1\AddingFIle.cpp(275,19): warning C4305: =: усечение из "int" в "char"
+C:\Users\maya1\Documents\0чень важные доки\unik\Project1\Project1\AddingFIle.cpp(275,15): warning C4309: =: усечение константного значения
+  AdminMenu.cpp
+  AdmTickets.cpp
+  BuyTicket1.cpp
+  CalenderPlays.cpp
+  Checking.cpp
+  Date.cpp
+C:\Users\maya1\Documents\0чень важные доки\unik\Project1\Project1\Date.cpp(94,22): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Director.cpp
+  DirectorsForm.cpp
+  Education.cpp
+  Finding.cpp
+C:\Users\maya1\Documents\0чень важные доки\unik\Project1\Project1\Finding.cpp(85,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Hall.cpp
+  ListPlays.cpp
+  MainM.cpp
+  Pay_office.cpp
+  Place.cpp
+  Play.cpp
+  Создание кода...
+  Компиляция...
+  PlaysForm.cpp
+  SearchForm.cpp
+  Season.cpp
+  SeasonPlay.cpp
+  SeasonsForm.cpp
+  Statistica.cpp
+  Systema.cpp
+  Time.cpp
+  Trupp_role.cpp
+  ViewerMenu.cpp
+  Worker.cpp
+  WritingFile.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+C:\Users\maya1\Documents\0чень важные доки\unik\Project1\Project1\SearchForm.cpp(55): warning C4700: использована неинициализированная локальная переменная "find_act"
+C:\Users\maya1\Documents\0чень важные доки\unik\Project1\Project1\SearchForm.cpp(69): warning C4700: использована неинициализированная локальная переменная "find_dir"
+C:\Users\maya1\Documents\0чень важные доки\unik\Project1\Project1\SearchForm.cpp(83): warning C4700: использована неинициализированная локальная переменная "find_play"
+  AboutPlay.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project1.vcxproj -> C:\Users\maya1\Documents\0чень важные доки\unik\Project1\Debug\Project1.exe
